@@ -12,7 +12,7 @@ Being a Data Journalist is part writer, part data visualiser, and part data-jack
 
 (I already have a [few](https://theheasman.com/the-odyssey-was-for-sailors) [D3](https://theheasman.com/how-i-used-a-market-basket-analysis-to-get-a-job-offer/) [projects](https://theheasman.com/short_stories/data-that-shows-this-job-market-isnt-personal) [under my belt](https://theheasman.com/data-history-of-uk-interest-rates/), but I would like to learn to build D3 projects with a more modern framework. And, even in the age of AI, I'm a big believer in learning things the hard way.). 
 
->This project was part of the React Forms module, and is intended to introduce how to build controlled forms with React Hooks. Brief from Codecademy: 
+This project was part of the React Forms module, and is intended to introduce how to build controlled forms with React Hooks. Brief from Codecademy: 
 
 >In this practice project, you will create a food order form for a restaurant.
 
